@@ -1,2 +1,0 @@
-# shannon-legassic
-Hello World
